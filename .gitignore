@@ -89,3 +89,5 @@ librealsense-log.txt
 *.cxx
 
 .vscode/*
+/ubuntu-xenial-roc-rk3328-cc/
+/.config
